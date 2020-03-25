@@ -1,5 +1,3 @@
-//1342. Number of Steps to Reduce a Number to Zero
-
 class Solution {
     public int numberOfSteps (int num) {
         int steps = 0;
