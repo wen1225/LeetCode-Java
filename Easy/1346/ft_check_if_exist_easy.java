@@ -1,4 +1,3 @@
-//1346. Check If N and Its Double Exist
 class Solution {
     public boolean checkIfExist(int[] arr) {
         if (arr.length < 2 || arr.length > 500)
