@@ -1,4 +1,3 @@
-//1351. Count Negative Numbers in a Sorted Matrix
 class Solution {
     public int countNegatives(int[][] grid) {
         //scan matrix row by row
